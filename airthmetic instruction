@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include<math.h>
+int main(){
+int a = 9 , b = 8 ;
+int sum = a + b;
+int multiply = a*b;
+
+int d = pow(a,b);// for this we have to use power airtmetic operation
+printf("%d", 16%12);
+return 0;   
+}
+// for power it is compulsary to use "include<stdio.h>"
+// for module operator the output is always the raminder of 2 operand 
+// module operater works only on integers
